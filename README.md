@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world test repository
+repository for big ideas lab
